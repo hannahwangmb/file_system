@@ -1,7 +1,5 @@
 # A Simple File System (SFS)
 
-Developed utilities for a FAT-like file system in C. Programmed file system info display, root/sub-directory content viewing, and file copying to/from Linux directory.
-
 Author: hannahwangmb@uvic.ca
 
 Date: Nov.19, 2023
